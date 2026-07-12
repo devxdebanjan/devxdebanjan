@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm Debanjan Naskar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 
 <p align="center">
-I like building things I can own end to end — the kind where you think about the trade-offs<br>
-in system design more than the features. GSoC '25 contributor, currently at IIT Kharagpur.
+I like building things I can own end to end, the kind where you care more about the trade-offs in system design than just shipping features. Most of my work revolves around low-latency, concurrent systems, real-time multiplayer backends, robotics simulations, and tools that actually hold up under load. Google Summer of Code '25 contributor with Liquid Galaxy. Currently learning about software and system designs while studying Electrical Engineering at IIT Kharagpur.
 </p>
-
-<br>
 
 <p align="center">
   <picture>
