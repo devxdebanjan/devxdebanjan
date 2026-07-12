@@ -52,6 +52,6 @@ I like building things I can own end to end, the kind where you care more about 
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=devxdebanjan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- <img src="https://github-stats-extended.vercel.app/api?username=devxdebanjan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devxdebanjan&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
 </p>
