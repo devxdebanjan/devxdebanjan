@@ -56,5 +56,5 @@ in system design more than the features. GSoC '25 contributor, currently at IIT 
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=devxdebanjan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devxdebanjan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devxdebanjan&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
 </p>
